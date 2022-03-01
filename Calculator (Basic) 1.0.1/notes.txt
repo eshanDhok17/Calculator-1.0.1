@@ -1,0 +1,14 @@
+defer:-
+The defer is a Boolean value, used to indicate that script is executed after the document has been parsed.
+
+before:-
+The ::before selector inserts something before the content of each selected element(s).
+
+after:-
+The ::after selector inserts something after the content of each selected element(s).
+
+font:-
+https://fonts.google.com/specimen/Open+Sans?preview.text_type=numerals&preview.size=24
+
+Gradient Animation effect:- (metadata)
+https://codepen.io/P1N2O/pen/pyBNzX
